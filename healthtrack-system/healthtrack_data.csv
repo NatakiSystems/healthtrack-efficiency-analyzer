@@ -1,0 +1,1 @@
+id,date,day_of_week,time_slot,patient_id,appointment_type,scheduled_duration,actual_duration,show_up_status,duration_difference
