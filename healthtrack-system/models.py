@@ -20,7 +20,7 @@ class Appointment(DBModelBase):
     __tablename__ = "appointments"
     
     # Required Appointment Data (Case Study Page 2)
-    id = Column(String, primary_key=True) # Appointment ID
+    appointment_id = Column(String, primary_key=True, default=lambda: str(uuid.uuid4()))
     date = Column(DateTime, default=datetime.utcnow) # Date
     day_of_week = Column(String) # Monday, Tuesday, etc.
     time_slot = Column(String) # 9:00AM, 10:00AM, etc.
