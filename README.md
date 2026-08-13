@@ -2,7 +2,7 @@
 
 > **Technical End of Phase Project (TEPP)** | Phase 1: AI Business Solutions Fellowship  
 > **Institution:** The Knowledge House (Innovation Fellowship 2026)  
-> **Author:** N. Boykin, Practice Manager & Operations Specialist  
+> **Author:** Nataki Boykin, Future Founder/Owner of AnchorPoint Virtual Business Solutions
 
 ---
 
