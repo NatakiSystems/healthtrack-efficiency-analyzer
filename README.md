@@ -57,6 +57,10 @@ The **HealthTrack Efficiency Analyzer** is an end-to-end Python data modeling an
 
 ---
 
+💡 **Future Outlook: AnchorPoint Virtual Business Solutions**
+This technical pilot serves as the foundational case study for AnchorPoint Virtual Business Solutions, demonstrating how data modeling, AI workflows, and strategic leadership combine to restore operational stability, structure, and support to growing health practices.
+
+---
 ## 📂 Repository Structure
 
 ```text
@@ -64,7 +68,3 @@ The **HealthTrack Efficiency Analyzer** is an end-to-end Python data modeling an
 ├── .gitignore               # Ignored system and environment files
 └── README.md                # Project documentation and executive summary
 
----
-
-💡 **Future Outlook: AnchorPoint Virtual Business Solutions**
-This technical pilot serves as the foundational case study for AnchorPoint Virtual Business Solutions, demonstrating how data modeling, AI workflows, and strategic leadership combine to restore operational stability, structure, and support to growing health practices.
